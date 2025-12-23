@@ -1,0 +1,152 @@
+header {
+  width: 100%;
+  height: 60px;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+  background: #1E201E;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+header .logo a {
+  text-decoration: none;
+  color: var(--text-white);
+  font-size: 25px;
+  font-weight: 800;
+  padding-left: 100px;
+  color: #fff;
+}
+
+
+
+header .right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  width: 50%;
+  position: relative;
+  justify-content: right;
+
+}
+
+header .right .line {
+  height: 40px;
+  width: 1px;
+  background-color: #e6e6e6;
+}
+
+header .profile {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  background-color: rgba(255, 255, 255, 0.045);
+  height: 60px;
+  padding-right: 2%;
+}
+
+header .profile .auth-btn {
+  color: #2874F0;
+  font-size: 14px;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+}
+
+
+
+.menu-link {
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  color: #969696;
+  transition: 0.5s linear;
+  padding: 0px 10px 0px 0px;
+  margin: 0;
+}
+
+.menu-link:hover {
+  color: #2874F0;
+  background-color: rgba(255, 255, 255, 0.045);
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  padding: 6px 10px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.menu-icon {
+  margin-right: 5px;
+  font-size: 18px;
+}
+
+.hr-line {
+  border-top: 1px solid #ccc;
+  margin: 10px 0;
+}
+
+.profile .open-btn {
+  outline: none;
+  border: none;
+  font-size: 25px;
+  cursor: pointer;
+  line-height: 20px;
+  padding: 5px 10px;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.profile .open-btn img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: top center;
+  background-color: #2874F0;
+  padding: 1px;
+}
+
+.profile .open-btn p {
+  color: #2874F0;
+  font-size: 16px;
+}
+
+.profile .open-btn .name {
+  color: #969696;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.login-btn{
+  color: #2874F0;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 17px;
+}
+
+
+@media(max-width:576px) {
+  .profile .open-btn {
+    gap: 0;
+  }
+
+  .profile .open-btn p {
+    display: none;
+  }
+
+  .profile .open-btn .name {
+    display: none;
+  }
+}

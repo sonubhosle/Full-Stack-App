@@ -1,0 +1,137 @@
+.form-section {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('https://i.postimg.cc/3JrsYNmB/Pngtree-background-design-of-a-beautiful-1184870.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #f4f4f4;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.form-section form {
+    background-color: rgba(255, 255, 255, 0.062);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    width: 500px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+
+.form-section form h3 {
+    margin-bottom: 30px;
+    color: #fff;
+    font-size: 22px;
+}
+
+.form-section .input-group {
+    width: 60%;
+    height: 40px;
+    position: relative;
+    margin-bottom: 20px;
+    display: flex;
+    gap: 10px;
+}
+
+.form-section .big {
+    width: 90%;
+}
+
+.form-section .input-group input {
+    width: 100%;
+    height: 100%;
+    border: none;
+    border: 1.8px solid rgba(255, 255, 255, 0.192);
+    background-color: transparent;
+    outline: none;
+    color: #fff;
+    font-size: 15px;
+    transition: 0.5s ease;
+    background-color: rgba(255, 255, 255, 0.192);
+    padding-left: 10px;
+    border-radius: 4px;
+
+}
+
+.form-section .input-group input:focus {
+    border: 1.8px solid crimson;
+}
+
+.form-section .input-group input::placeholder {
+    color: #212121;
+}
+
+.form-section form .login-btn {
+    width: 60%;
+    height: 40px;
+    background-color: crimson;
+    outline: none;
+    border: none;
+    border-radius: 4px;
+    font-size: 17px;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+
+.form-section form .bottom {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+    gap: 5px;
+    color: #f4f4f4;
+}
+
+.form-section form .bottom .nav-btn {
+    color: crimson;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+@media(max-width:576px) {
+    .form-section form {
+        width: 90%;
+    }
+
+    .form-section .input-group {
+        display: block;
+        height: auto;
+        width: 90%;
+    }
+
+    .form-section .input-group input {
+        height: 40px;
+    }
+
+    .form-section .input-group .mb {
+        margin-bottom: 10px;
+    }
+
+    .form-section .big {
+        margin-bottom: 0px;
+    }
+}
+
+@media(max-width:350px) {
+    .form-section form .bottom {
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+}

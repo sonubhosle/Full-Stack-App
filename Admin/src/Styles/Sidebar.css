@@ -1,0 +1,158 @@
+.sidebar {
+  height: 100vh;
+  width: 270px;
+  z-index: 99999;
+  background-color: #1E201E;
+  transition: all .5s ease;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-bottom: 100px;
+
+}
+
+.sidebar.open {
+  width: 80px;
+}
+
+.sidebar .logo_details {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  position: sticky;
+  background-color: rgba(255, 255, 255, 0.045);
+  padding-left: 8px;
+  top: 0;
+  z-index: 99;
+}
+
+.sidebar .logo_details .icon {
+  opacity: 1;
+  transition: all 0.5s ease;
+}
+
+.sidebar .logo_details .icon .cog {
+  font-size: 23px;
+  display: flex;
+  align-items: center;
+  margin: 0px 11px 0px 15px;
+  color: #969696;
+}
+
+.sidebar .logo_details .hide {
+  display: none;
+}
+
+.sidebar .logo_details .logo_name {
+  color: #969696;
+  font-size: 20px;
+  font-weight: 600;
+  opacity: 1;
+  transition: all .5s ease;
+}
+
+.sidebar.open .logo_details .icon {
+  opacity: 0;
+
+}
+
+.sidebar.open .logo_details .logo_name {
+  opacity: 0;
+}
+
+.sidebar .logo_details #btn {
+  position: absolute;
+  top: 18px;
+  right: 20px;
+  transform: translateX(-20%);
+  font-size: 23px;
+  text-align: center;
+  cursor: pointer;
+  transition: all .5s ease;
+  color: #969696;
+}
+
+.sidebar.open .logo_details #btn {
+  text-align: center;
+  transform: translateX(-40%);
+
+}
+
+
+/* Nav List */
+
+.sidebar .nav-list {
+  width: 100%;
+  padding: 0px 26px;
+  position: relative;
+}
+
+.sidebar .nav-list .heading {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 15px 0px;
+  transition: 0.5s ease;
+}
+
+.sidebar.open .nav-list .heading span {
+  display: none;
+}
+
+.sidebar .nav-list .heading p {
+  width: 10px;
+  height: 10px;
+  background-color: crimson;
+  border-radius: 50%;
+  box-shadow: rgb(220, 20, 60) 0px 0px 15px 0px;
+}
+
+.sidebar.open .nav-list .heading p{
+   margin-left: 6px;
+}
+
+
+.sidebar .nav-list .heading span {
+  text-transform: uppercase;
+  color: #fff;
+  font-size: 15px;
+  transition: 0.5s ease;
+}
+
+
+
+
+.sidebar .nav-list .menu {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #969696;
+  font-size: 16px;
+  font-weight: 500;
+  transition: 0.5s ease;
+}
+
+.sidebar .nav-list .padding {
+  padding: 10px 0px;
+}
+
+.sidebar .nav-list .menu:hover {
+  color: crimson;
+}
+
+.sidebar .nav-list .menu .icon {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+}
+
+.sidebar .nav-list .menu .link-name {
+  transition: 0.5s ease;
+}
+
+.sidebar.open .nav-list .menu .link-name {
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+  left: -1000px;
+}

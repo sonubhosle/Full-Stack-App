@@ -1,0 +1,73 @@
+@import url(https://fonts.googleapis.com/css?family=Jost:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+
+@import url(https://fonts.googleapis.com/css?family=Urbanist:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+* {
+
+  font-family: 'Urbanist', sans-serif;
+}
+
+
+@media (max-width: 768px) {
+  .hide-below-768 {
+    display: none;
+  }
+  .banner-m-t{
+    margin-top: 0px;
+  }
+}
+
+
+        @keyframes popIn {
+          0% {
+            opacity: 0;
+            transform: scale(0.9) translateY(20px);
+          }
+          60% {
+            opacity: 1;
+            transform: scale(1.05) translateY(0);
+          }
+          100% {
+            transform: scale(1);
+          }
+        }
+        .animate-popIn {
+          animation: popIn 0.4s ease-out forwards;
+        }
+
+  @keyframes fall {
+          to {
+            transform: translateY(400px) rotate(360deg);
+            opacity: 0;
+          }
+        }
+
+
+
+
+        
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #fff; 
+  border:none;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #0e7457; 
+  border: none;
+}
+      
+
+
+/* Custome classes */
+
+@media(max-width:991px){
+    .sm-m{
+        margin-top: 40px;
+    }
+}

@@ -1,0 +1,107 @@
+.overflow-grid {
+    display: grid;
+    grid-template-columns: 400px 1fr;
+    gap: 15px;
+    position: relative;
+}
+
+.product-overview {
+    width: 400px;
+    background-color: #1E201E;
+    border-radius: 4px;
+    padding: 15px;
+    box-shadow: rgba(30, 32, 30, 0.056) 0px 0px 10px 0px;
+    position: relative;
+}
+
+.product-overview .trophy {
+    position: absolute;
+    right: 15px;
+    bottom: 10px;
+    color: yellow;
+}
+
+.product-overview h2 {
+    font-weight: 500;
+    color: #fff;
+}
+
+.product-overview span {
+    font-size: 16px;
+    color: crimson;
+}
+
+.product-overview .p {
+    color: #969696;
+    font-size: 17px;
+    padding-top: 6px;
+}
+
+.product-overview .view-product {
+    background-color: crimson;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2px;
+    color: #fff;
+    margin-top: 10px;
+    height: 35px;
+    box-shadow: rgba(220, 20, 60, 0.644) 0px 0px 5px 0px;
+    cursor: pointer;
+}
+
+.revenu-overview {
+    background-color: #1E201E;
+    border-radius: 4px;
+    padding: 15px;
+    box-shadow: rgba(30, 32, 30, 0.056) 0px 0px 10px 0px;
+
+}
+
+.revenu-overview .revenu-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 0px 15px 0px;
+    border-bottom: 1px solid #686868;
+    margin-bottom: 10px;
+}
+
+.revenu-overview .revenu-header h2 {
+    font-weight: 500;
+    font-size: 20px;
+    color: #969696;
+}
+
+.revenu-overview span {
+    color: teal;
+}
+
+.revenu-overview .boxes {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+
+.revenu-overview .boxes .status {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.revenu-overview .boxes .status .icon-box {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+}
+
+.revenu-overview .boxes .status .text-info p {
+    color: #b1b1b1;
+    font-weight: 400;
+}
