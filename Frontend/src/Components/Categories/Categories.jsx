@@ -8,6 +8,7 @@ import { ChevronLeft, ChevronRight, LayoutDashboard } from 'lucide-react'
 
 import { useNavigate } from 'react-router-dom';
 import Heading from '../Section_Heading/Heading';
+import { categories } from '../Data/categories';
 
 
 

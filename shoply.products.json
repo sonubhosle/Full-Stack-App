@@ -1,0 +1,808 @@
+[{
+  "_id": {
+    "$oid": "68fb38c927d23d7348f79833"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+  "brand": "METRONAUT ",
+  "images": [
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949776/products/vqmbhmld5xvwji1dercb.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/zt28xyrptquus6wgybiw.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/dnf5tecbudbozdqxspzn.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/m8utzcwronxkov0mlo0a.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/raojuaifzuqdje6frmrg.jpg"
+  ],
+  "price": 1399,
+  "discountedPrice": 229,
+  "discountPercent": 83,
+  "quantity": 0,
+  "category": "Fashion",
+  "description": "Nice Product",
+  "color": "Blue",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "offers": [
+    "Bank Offer5% cashback on Axis Bank Flipkart Debit Card up to ₹750T&C",
+    "Bank Offer5% cashback on Flipkart SBI Credit Card upto ₹4",
+    "000 per calendar quarterT&C"
+  ],
+  "variants": [
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Green",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/frdkzxixh9jdgw3jqaff.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949798/products/dagvhdykwlt7nuzdk6nw.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/ccewni2ogrioxqe8svdd.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/e5aboumtetxftiherirq.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/zzx701cqzfaotiagbjel.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 299,
+      "discountPercent": 78,
+      "stock": 0,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8c"
+      }
+    },
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Orange",
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/yvtrn8svk5vi2gan9l9k.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949793/products/v1p2uzoof4l5hnnymlbu.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/di7w3m5mxxdpwymmjrlo.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/mz18za59nrpwwen7zubt.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949800/products/f4xe4pb8dmef5lusg8ik.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 279,
+      "discountPercent": 89,
+      "stock": 2,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8d"
+      },
+      "numRatings": 1,
+      "ratings": [
+        {
+          "$oid": "68fa2e07c0ea488e85e82a9d"
+        }
+      ],
+      "numReviews": 1,
+      "reviews": [
+        {
+          "$oid": "68fa2e14c0ea488e85e82aae"
+        }
+      ]
+    }
+  ],
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "numReviews": 0,
+  "createdAt": {
+    "$date": "2025-10-20T08:43:23.041Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "68fb38cc27d23d7348f79834"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+  "brand": "METRONAUT ",
+  "images": [
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949776/products/vqmbhmld5xvwji1dercb.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/zt28xyrptquus6wgybiw.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/dnf5tecbudbozdqxspzn.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/m8utzcwronxkov0mlo0a.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/raojuaifzuqdje6frmrg.jpg"
+  ],
+  "price": 1399,
+  "discountedPrice": 229,
+  "discountPercent": 83,
+  "quantity": 0,
+  "category": "Mobile",
+  "description": "Nice Product",
+  "color": "Blue",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "offers": [
+    "Bank Offer5% cashback on Axis Bank Flipkart Debit Card up to ₹750T&C",
+    "Bank Offer5% cashback on Flipkart SBI Credit Card upto ₹4",
+    "000 per calendar quarterT&C"
+  ],
+  "variants": [
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Green",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/frdkzxixh9jdgw3jqaff.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949798/products/dagvhdykwlt7nuzdk6nw.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/ccewni2ogrioxqe8svdd.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/e5aboumtetxftiherirq.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/zzx701cqzfaotiagbjel.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 299,
+      "discountPercent": 78,
+      "stock": 0,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8c"
+      }
+    },
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Orange",
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/yvtrn8svk5vi2gan9l9k.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949793/products/v1p2uzoof4l5hnnymlbu.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/di7w3m5mxxdpwymmjrlo.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/mz18za59nrpwwen7zubt.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949800/products/f4xe4pb8dmef5lusg8ik.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 279,
+      "discountPercent": 89,
+      "stock": 2,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8d"
+      },
+      "numRatings": 1,
+      "ratings": [
+        {
+          "$oid": "68fa2e07c0ea488e85e82a9d"
+        }
+      ],
+      "numReviews": 1,
+      "reviews": [
+        {
+          "$oid": "68fa2e14c0ea488e85e82aae"
+        }
+      ]
+    }
+  ],
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "numReviews": 0,
+  "createdAt": {
+    "$date": "2025-10-20T08:43:23.041Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "68fb38cf27d23d7348f79835"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+  "brand": "METRONAUT ",
+  "images": [
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949776/products/vqmbhmld5xvwji1dercb.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/zt28xyrptquus6wgybiw.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/dnf5tecbudbozdqxspzn.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/m8utzcwronxkov0mlo0a.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/raojuaifzuqdje6frmrg.jpg"
+  ],
+  "price": 1399,
+  "discountedPrice": 229,
+  "discountPercent": 83,
+  "quantity": 0,
+  "category": "Mens",
+  "description": "Nice Product",
+  "color": "Blue",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "offers": [
+    "Bank Offer5% cashback on Axis Bank Flipkart Debit Card up to ₹750T&C",
+    "Bank Offer5% cashback on Flipkart SBI Credit Card upto ₹4",
+    "000 per calendar quarterT&C"
+  ],
+  "variants": [
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Green",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/frdkzxixh9jdgw3jqaff.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949798/products/dagvhdykwlt7nuzdk6nw.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/ccewni2ogrioxqe8svdd.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/e5aboumtetxftiherirq.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/zzx701cqzfaotiagbjel.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 299,
+      "discountPercent": 78,
+      "stock": 0,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8c"
+      }
+    },
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Orange",
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/yvtrn8svk5vi2gan9l9k.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949793/products/v1p2uzoof4l5hnnymlbu.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/di7w3m5mxxdpwymmjrlo.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/mz18za59nrpwwen7zubt.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949800/products/f4xe4pb8dmef5lusg8ik.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 279,
+      "discountPercent": 89,
+      "stock": 2,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8d"
+      },
+      "numRatings": 1,
+      "ratings": [
+        {
+          "$oid": "68fa2e07c0ea488e85e82a9d"
+        }
+      ],
+      "numReviews": 1,
+      "reviews": [
+        {
+          "$oid": "68fa2e14c0ea488e85e82aae"
+        }
+      ]
+    }
+  ],
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "numReviews": 0,
+  "createdAt": {
+    "$date": "2025-10-20T08:43:23.041Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "68fb38d327d23d7348f79836"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+  "brand": "METRONAUT ",
+  "images": [
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949776/products/vqmbhmld5xvwji1dercb.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/zt28xyrptquus6wgybiw.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/dnf5tecbudbozdqxspzn.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/m8utzcwronxkov0mlo0a.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/raojuaifzuqdje6frmrg.jpg"
+  ],
+  "price": 1399,
+  "discountedPrice": 229,
+  "discountPercent": 83,
+  "quantity": 0,
+  "category": "Womens",
+  "description": "Nice Product",
+  "color": "Blue",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "offers": [
+    "Bank Offer5% cashback on Axis Bank Flipkart Debit Card up to ₹750T&C",
+    "Bank Offer5% cashback on Flipkart SBI Credit Card upto ₹4",
+    "000 per calendar quarterT&C"
+  ],
+  "variants": [
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Green",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/frdkzxixh9jdgw3jqaff.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949798/products/dagvhdykwlt7nuzdk6nw.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/ccewni2ogrioxqe8svdd.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/e5aboumtetxftiherirq.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/zzx701cqzfaotiagbjel.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 299,
+      "discountPercent": 78,
+      "stock": 0,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8c"
+      }
+    },
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Orange",
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/yvtrn8svk5vi2gan9l9k.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949793/products/v1p2uzoof4l5hnnymlbu.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/di7w3m5mxxdpwymmjrlo.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/mz18za59nrpwwen7zubt.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949800/products/f4xe4pb8dmef5lusg8ik.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 279,
+      "discountPercent": 89,
+      "stock": 2,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8d"
+      },
+      "numRatings": 1,
+      "ratings": [
+        {
+          "$oid": "68fa2e07c0ea488e85e82a9d"
+        }
+      ],
+      "numReviews": 1,
+      "reviews": [
+        {
+          "$oid": "68fa2e14c0ea488e85e82aae"
+        }
+      ]
+    }
+  ],
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "numReviews": 0,
+  "createdAt": {
+    "$date": "2025-10-20T08:43:23.041Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "68fb38d627d23d7348f79837"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+  "brand": "METRONAUT ",
+  "images": [
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949776/products/vqmbhmld5xvwji1dercb.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/zt28xyrptquus6wgybiw.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/dnf5tecbudbozdqxspzn.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/m8utzcwronxkov0mlo0a.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/raojuaifzuqdje6frmrg.jpg"
+  ],
+  "price": 1399,
+  "discountedPrice": 229,
+  "discountPercent": 83,
+  "quantity": 0,
+  "category": "Mens",
+  "description": "Nice Product",
+  "color": "Blue",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "offers": [
+    "Bank Offer5% cashback on Axis Bank Flipkart Debit Card up to ₹750T&C",
+    "Bank Offer5% cashback on Flipkart SBI Credit Card upto ₹4",
+    "000 per calendar quarterT&C"
+  ],
+  "variants": [
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Green",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/frdkzxixh9jdgw3jqaff.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949798/products/dagvhdykwlt7nuzdk6nw.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/ccewni2ogrioxqe8svdd.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/e5aboumtetxftiherirq.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/zzx701cqzfaotiagbjel.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 299,
+      "discountPercent": 78,
+      "stock": 0,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8c"
+      }
+    },
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Orange",
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/yvtrn8svk5vi2gan9l9k.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949793/products/v1p2uzoof4l5hnnymlbu.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/di7w3m5mxxdpwymmjrlo.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/mz18za59nrpwwen7zubt.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949800/products/f4xe4pb8dmef5lusg8ik.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 279,
+      "discountPercent": 89,
+      "stock": 2,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8d"
+      },
+      "numRatings": 1,
+      "ratings": [
+        {
+          "$oid": "68fa2e07c0ea488e85e82a9d"
+        }
+      ],
+      "numReviews": 1,
+      "reviews": [
+        {
+          "$oid": "68fa2e14c0ea488e85e82aae"
+        }
+      ]
+    }
+  ],
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "numReviews": 0,
+  "createdAt": {
+    "$date": "2025-10-20T08:43:23.041Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "68fb38d927d23d7348f79838"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+  "brand": "METRONAUT ",
+  "images": [
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949776/products/vqmbhmld5xvwji1dercb.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/zt28xyrptquus6wgybiw.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/dnf5tecbudbozdqxspzn.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/m8utzcwronxkov0mlo0a.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/raojuaifzuqdje6frmrg.jpg"
+  ],
+  "price": 1399,
+  "discountedPrice": 229,
+  "discountPercent": 83,
+  "quantity": 0,
+  "category": "Mens",
+  "description": "Nice Product",
+  "color": "Blue",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "offers": [
+    "Bank Offer5% cashback on Axis Bank Flipkart Debit Card up to ₹750T&C",
+    "Bank Offer5% cashback on Flipkart SBI Credit Card upto ₹4",
+    "000 per calendar quarterT&C"
+  ],
+  "variants": [
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Green",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/frdkzxixh9jdgw3jqaff.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949798/products/dagvhdykwlt7nuzdk6nw.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/ccewni2ogrioxqe8svdd.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/e5aboumtetxftiherirq.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/zzx701cqzfaotiagbjel.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 299,
+      "discountPercent": 78,
+      "stock": 0,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8c"
+      }
+    },
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Orange",
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/yvtrn8svk5vi2gan9l9k.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949793/products/v1p2uzoof4l5hnnymlbu.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/di7w3m5mxxdpwymmjrlo.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/mz18za59nrpwwen7zubt.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949800/products/f4xe4pb8dmef5lusg8ik.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 279,
+      "discountPercent": 89,
+      "stock": 2,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8d"
+      },
+      "numRatings": 1,
+      "ratings": [
+        {
+          "$oid": "68fa2e07c0ea488e85e82a9d"
+        }
+      ],
+      "numReviews": 1,
+      "reviews": [
+        {
+          "$oid": "68fa2e14c0ea488e85e82aae"
+        }
+      ]
+    }
+  ],
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "numReviews": 0,
+  "createdAt": {
+    "$date": "2025-10-20T08:43:23.041Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "68fb38dc27d23d7348f79839"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+  "brand": "METRONAUT ",
+  "images": [
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949776/products/vqmbhmld5xvwji1dercb.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/zt28xyrptquus6wgybiw.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/dnf5tecbudbozdqxspzn.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/m8utzcwronxkov0mlo0a.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/raojuaifzuqdje6frmrg.jpg"
+  ],
+  "price": 1399,
+  "discountedPrice": 229,
+  "discountPercent": 83,
+  "quantity": 0,
+  "category": "Mens",
+  "description": "Nice Product",
+  "color": "Blue",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "offers": [
+    "Bank Offer5% cashback on Axis Bank Flipkart Debit Card up to ₹750T&C",
+    "Bank Offer5% cashback on Flipkart SBI Credit Card upto ₹4",
+    "000 per calendar quarterT&C"
+  ],
+  "variants": [
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Green",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/frdkzxixh9jdgw3jqaff.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949798/products/dagvhdykwlt7nuzdk6nw.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/ccewni2ogrioxqe8svdd.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/e5aboumtetxftiherirq.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/zzx701cqzfaotiagbjel.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 299,
+      "discountPercent": 78,
+      "stock": 0,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8c"
+      }
+    },
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Orange",
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/yvtrn8svk5vi2gan9l9k.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949793/products/v1p2uzoof4l5hnnymlbu.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/di7w3m5mxxdpwymmjrlo.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/mz18za59nrpwwen7zubt.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949800/products/f4xe4pb8dmef5lusg8ik.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 279,
+      "discountPercent": 89,
+      "stock": 2,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8d"
+      },
+      "numRatings": 1,
+      "ratings": [
+        {
+          "$oid": "68fa2e07c0ea488e85e82a9d"
+        }
+      ],
+      "numReviews": 1,
+      "reviews": [
+        {
+          "$oid": "68fa2e14c0ea488e85e82aae"
+        }
+      ]
+    }
+  ],
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "numReviews": 0,
+  "createdAt": {
+    "$date": "2025-10-20T08:43:23.041Z"
+  },
+  "__v": 12
+},
+{
+  "_id": {
+    "$oid": "68fb38df27d23d7348f7983a"
+  },
+  "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+  "brand": "METRONAUT ",
+  "images": [
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949776/products/vqmbhmld5xvwji1dercb.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/zt28xyrptquus6wgybiw.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949779/products/dnf5tecbudbozdqxspzn.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/m8utzcwronxkov0mlo0a.jpg",
+    "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/raojuaifzuqdje6frmrg.jpg"
+  ],
+  "price": 1399,
+  "discountedPrice": 229,
+  "discountPercent": 83,
+  "quantity": 0,
+  "category": "Mens",
+  "description": "Nice Product",
+  "color": "Blue",
+  "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "offers": [
+    "Bank Offer5% cashback on Axis Bank Flipkart Debit Card up to ₹750T&C",
+    "Bank Offer5% cashback on Flipkart SBI Credit Card upto ₹4",
+    "000 per calendar quarterT&C"
+  ],
+  "variants": [
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Green",
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949784/products/frdkzxixh9jdgw3jqaff.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949798/products/dagvhdykwlt7nuzdk6nw.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/ccewni2ogrioxqe8svdd.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/e5aboumtetxftiherirq.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949788/products/zzx701cqzfaotiagbjel.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 299,
+      "discountPercent": 78,
+      "stock": 0,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8c"
+      }
+    },
+    {
+      "title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+      "color": "Orange",
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XL"
+      ],
+      "images": [
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/yvtrn8svk5vi2gan9l9k.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949793/products/v1p2uzoof4l5hnnymlbu.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/di7w3m5mxxdpwymmjrlo.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949794/products/mz18za59nrpwwen7zubt.jpg",
+        "https://res.cloudinary.com/dccfai5ci/image/upload/v1760949800/products/f4xe4pb8dmef5lusg8ik.jpg"
+      ],
+      "price": 1399,
+      "discountedPrice": 279,
+      "discountPercent": 89,
+      "stock": 2,
+      "_id": {
+        "$oid": "68f5f62bcef29cf4b244ff8d"
+      },
+      "numRatings": 1,
+      "ratings": [
+        {
+          "$oid": "68fa2e07c0ea488e85e82a9d"
+        }
+      ],
+      "numReviews": 1,
+      "reviews": [
+        {
+          "$oid": "68fa2e14c0ea488e85e82aae"
+        }
+      ]
+    }
+  ],
+  "ratings": [],
+  "reviews": [],
+  "numRatings": 0,
+  "numReviews": 0,
+  "createdAt": {
+    "$date": "2025-10-20T08:43:23.041Z"
+  },
+  "__v": 12
+}]
